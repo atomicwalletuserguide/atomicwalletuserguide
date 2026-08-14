@@ -24,3 +24,4 @@ Security rules:
 - Sensitive actions point to official Atomic Wallet resources
 
 DEPLOY TRIGGER
+DEPLOY TRIGGER2
