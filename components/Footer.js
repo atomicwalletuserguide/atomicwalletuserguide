@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><div className="wrap"><strong>Wallet Troubleshooting Guide</strong><br/>Independent educational website. Not affiliated with, endorsed by, or operated by Atomic Wallet. Never enter a 12-word backup phrase, private key or wallet password on this website.</div></footer>}
